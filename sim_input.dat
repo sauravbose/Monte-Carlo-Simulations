@@ -1,0 +1,10 @@
+200000
+50000
+0.1
+1
+
+_Variable_______________Meaning____
+1.nsweep		Total number of sweeps
+2.min_sweep		Number of sweeps carried out after which collection of data starts
+3.move_max		Max move size in units of sigma
+4.vlist_flg		Flag to turn on or off the use of verletlist 
